@@ -1,0 +1,11 @@
+version: "3"
+services:
+  anagram-validator:
+    build:
+      context: .
+    image: web:dev
+    command: ["./server"]
+    environment:
+      - debug=false
+    ports:
+      - 4000:4000
