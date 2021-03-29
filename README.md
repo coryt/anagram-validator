@@ -1,5 +1,7 @@
 # Anagram Validator
 
+<img width="629" alt="Screen Shot 2021-03-28 at 8 57 09 PM" src="https://user-images.githubusercontent.com/119498/112774621-3e0b5400-9008-11eb-9fe4-42ca0be1b5ae.png">
+
 ### What is an anagram?
 
 > An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. -- [Wikipedia](https://en.wikipedia.org/wiki/Anagram)
