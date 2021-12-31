@@ -29,3 +29,4 @@ Open the website [http://localhost:3000/](http://localhost:3000/)
 There is a helper to seed the API with some test data, run
 
 Run `make coverage`
+ 
